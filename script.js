@@ -1,3 +1,4 @@
+/* develop by shivam patel */
 
 let slidImages = document.querySelectorAll('img');
 //access the next and prev buttons
